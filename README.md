@@ -2,7 +2,7 @@
 
 Proyecto donde se muestra carros de diferentes tipos, caracteristicas, ventas y accesorios **Carros colombia**.
 
-##Tecnologías
+## Tecnologías
 
 * HTML
 * CSS
