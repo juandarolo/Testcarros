@@ -6,6 +6,8 @@ background-size: 100% 100%;
 background-attachment: fixed;
 background-color: transparent;
 
+
+
 }
 
 .container{
@@ -19,7 +21,19 @@ background-color: transparent;
     margin-top: 70px;
 }
 
+.mb-3{
 
+    
+    padding-left: 25%;
+    padding-right: 25%;
+
+}
+
+.display-6{
+
+    padding-top: 40px;
+
+}
 
 
 
